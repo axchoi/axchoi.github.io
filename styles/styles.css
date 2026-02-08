@@ -302,7 +302,7 @@ section {
 }
 
 .header-content .right-header .name {
-  font-size: 3rem;
+  font-size: 4rem;
 }
 
 .header-content .right-header .name span {
@@ -312,6 +312,7 @@ section {
 .header-content .right-header p {
   margin: 1.5rem 0;
   line-height: 2rem;
+  font-size: 1.3rem;
 }
 
 /*About*/
@@ -457,7 +458,7 @@ section {
   background-color: var(--color-secondary);
   -webkit-transition: all .4s ease-in-out;
   transition: all .4s ease-in-out;
-  width: 60%;
+  width: 85%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .html {
@@ -469,11 +470,11 @@ section {
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .js {
-  width: 75%;
+  width: 80%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .java {
-  width: 75%;
+  width: 80%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .sql {
@@ -481,8 +482,12 @@ section {
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
-  width: 96%;
+  width: 90%;
 }
+.about-stats .progress-bars .progress-bar .progress-con .progress .c {
+  width: 85%;
+}
+
 
 .stat-title {
   text-transform: uppercase;
