@@ -1,4 +1,4 @@
-link to website: https://alexchoi330.github.io/
+link to website: https://axchoi.github.io/
 
 
 - Preview on side panel (ctrl+shift+v): Open preview of HTML on side panel. With this feature, you can easely check the operation of HTML, CSS and JavaScript.
